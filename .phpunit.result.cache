@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"tests\\CeshiTest::testB":3,"tests\\CeshiTest::testC":4},"times":{"Warning":0.001,"tests\\CeshiTest::testA":0,"tests\\CeshiTest::testB":0,"tests\\CeshiTest::testC":0,"tests\\Test::testB":2.003,"tests\\Test::testA":0,"tests\\Test::testC":0}}
